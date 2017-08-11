@@ -1,1 +1,3 @@
 # java-language-learning-and-getting-started-with-android
+
+这个仓库用来存储凌晓的新生大学《JAVA语言基础&Android开发入门》课程笔记和作业，也用来记录我的JAVA语言和Android编程的学习过程，持续更新中...
